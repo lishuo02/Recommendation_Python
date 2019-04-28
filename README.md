@@ -42,11 +42,11 @@
 ```python
 import pymysql as MySQLdb
 import pandas as pd
-host="582eb0f46d463.bj.cdb.myqcloud.com"
-user="dev_gumpcome"
-passwd="Gump@2019"
-port=12637
-db="data_platform"
+host=""
+user=""
+passwd=""
+port=
+db=""
 ```
 
 打开数据库连接,关闭数据库链接函数,读取数据库函数
